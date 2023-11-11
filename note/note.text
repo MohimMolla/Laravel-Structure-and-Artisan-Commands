@@ -1,0 +1,7 @@
+(1) app create command : composer create-project laravel/laravel Laravel-Structure-and-Artisan-Commands
+
+(2) app run command : php artisan serve
+
+(3) controller create command : php artisan make:controller UserController\
+
+(4) url : http://127.0.0.1:8000/hello
